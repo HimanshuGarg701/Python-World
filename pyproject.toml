@@ -1,0 +1,14 @@
+[project]
+name = "himanshu-python-world"
+version = "1.0.0"
+description = "A deterministic catalog of 137 Python LeetCode solutions"
+readme = "README.md"
+requires-python = ">=3.9"
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"
+
+[tool.unittest]
+start-directory = "tests"
+
