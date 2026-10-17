@@ -1,0 +1,138 @@
+problem_number	relative_path	title
+240	python_world/p0240_search_a_2d_matrix_ii.py	Search a 2D Matrix II
+172	python_world/p0172_factorial_trailing_zeroes.py	Factorial Trailing Zeroes
+145	python_world/p0145_binary_tree_postorder_traversal.py	Binary Tree Postorder Traversal
+189	python_world/p0189_rotate_array.py	Rotate Array
+124	python_world/p0124_binary_tree_maximum_path_sum.py	Binary Tree Maximum Path Sum
+113	python_world/p0113_path_sum_ii.py	Path Sum II
+122	python_world/p0122_best_time_to_buy_and_sell_stock_ii.py	Best Time to Buy and Sell Stock II
+157	python_world/p0157_read_n_characters_given_read4.py	Read N Characters Given Read4
+138	python_world/p0138_copy_list_with_random_pointer.py	Copy List with Random Pointer
+198	python_world/p0198_house_robber.py	House Robber
+185	python_world/p0185_department_top_three_salaries.py	Department Top Three Salaries
+279	python_world/p0279_perfect_squares.py	Perfect Squares
+183	python_world/p0183_customers_who_never_order.py	Customers Who Never Order
+117	python_world/p0117_populating_next_right_pointers_ii.py	Populating Next Right Pointers II
+255	python_world/p0255_verify_preorder_sequence_in_binary_search_tree.py	Verify Preorder Sequence in Binary Search Tree
+108	python_world/p0108_sorted_array_to_bst.py	Sorted Array to BST
+181	python_world/p0181_employees_earning_more_than_managers.py	Employees Earning More Than Managers
+129	python_world/p0129_sum_root_to_leaf_numbers.py	Sum Root to Leaf Numbers
+262	python_world/p0262_trips_and_users.py	Trips and Users
+167	python_world/p0167_two_sum_ii.py	Two Sum II
+174	python_world/p0174_dungeon_game.py	Dungeon Game
+242	python_world/p0242_valid_anagram.py	Valid Anagram
+193	python_world/p0193_valid_phone_numbers.py	Valid Phone Numbers
+158	python_world/p0158_read_n_characters_given_read4_ii.py	Read N Characters Given Read4 II
+197	python_world/p0197_rising_temperature.py	Rising Temperature
+231	python_world/p0231_power_of_two.py	Power of Two
+251	python_world/p0251_flatten_2d_vector.py	Flatten 2D Vector
+246	python_world/p0246_strobogrammatic_number.py	Strobogrammatic Number
+125	python_world/p0125_valid_palindrome.py	Valid Palindrome
+141	python_world/p0141_linked_list_cycle.py	Linked List Cycle
+253	python_world/p0253_meeting_rooms_ii.py	Meeting Rooms II
+188	python_world/p0188_best_time_to_buy_and_sell_stock_iv.py	Best Time to Buy and Sell Stock IV
+245	python_world/p0245_shortest_word_distance_iii.py	Shortest Word Distance III
+257	python_world/p0257_binary_tree_paths.py	Binary Tree Paths
+111	python_world/p0111_minimum_depth_of_binary_tree.py	Minimum Depth of Binary Tree
+153	python_world/p0153_find_minimum_in_rotated_sorted_array.py	Find Minimum in Rotated Sorted Array
+101	python_world/p0101_symmetric_tree.py	Symmetric Tree
+168	python_world/p0168_excel_sheet_column_title.py	Excel Sheet Column Title
+234	python_world/p0234_palindrome_linked_list.py	Palindrome Linked List
+133	python_world/p0133_clone_graph.py	Clone Graph
+134	python_world/p0134_gas_station.py	Gas Station
+187	python_world/p0187_repeated_dna_sequences.py	Repeated DNA Sequences
+149	python_world/p0149_max_points_on_a_line.py	Max Points on a Line
+110	python_world/p0110_balanced_binary_tree.py	Balanced Binary Tree
+238	python_world/p0238_product_of_array_except_self.py	Product of Array Except Self
+244	python_world/p0244_shortest_word_distance_ii.py	Shortest Word Distance II
+191	python_world/p0191_number_of_1_bits.py	Number of 1 Bits
+120	python_world/p0120_triangle.py	Triangle
+161	python_world/p0161_one_edit_distance.py	One Edit Distance
+118	python_world/p0118_pascals_triangle.py	Pascals Triangle
+170	python_world/p0170_two_sum_iii.py	Two Sum III
+278	python_world/p0278_first_bad_version.py	First Bad Version
+121	python_world/p0121_best_time_to_buy_and_sell_stock.py	Best Time to Buy and Sell Stock
+175	python_world/p0175_combine_two_tables.py	Combine Two Tables
+165	python_world/p0165_compare_version_numbers.py	Compare Version Numbers
+104	python_world/p0104_maximum_depth_of_binary_tree.py	Maximum Depth of Binary Tree
+254	python_world/p0254_factor_combinations.py	Factor Combinations
+233	python_world/p0233_number_of_digit_one.py	Number of Digit One
+274	python_world/p0274_h_index.py	H Index
+272	python_world/p0272_closest_binary_search_tree_value_ii.py	Closest Binary Search Tree Value II
+199	python_world/p0199_binary_tree_right_side_view.py	Binary Tree Right Side View
+178	python_world/p0178_rank_scores.py	Rank Scores
+247	python_world/p0247_strobogrammatic_number_ii.py	Strobogrammatic Number II
+190	python_world/p0190_reverse_bits.py	Reverse Bits
+164	python_world/p0164_maximum_gap.py	Maximum Gap
+267	python_world/p0267_palindrome_permutation_ii.py	Palindrome Permutation II
+171	python_world/p0171_excel_sheet_column_number.py	Excel Sheet Column Number
+123	python_world/p0123_best_time_to_buy_and_sell_stock_iii.py	Best Time to Buy and Sell Stock III
+237	python_world/p0237_delete_node_in_a_linked_list.py	Delete Node in a Linked List
+200	python_world/p0200_number_of_islands.py	Number of Islands
+160	python_world/p0160_intersection_of_two_linked_lists.py	Intersection of Two Linked Lists
+105	python_world/p0105_construct_tree_preorder_inorder.py	Construct Tree Preorder Inorder
+265	python_world/p0265_paint_house_ii.py	Paint House II
+258	python_world/p0258_add_digits.py	Add Digits
+115	python_world/p0115_distinct_subsequences.py	Distinct Subsequences
+106	python_world/p0106_construct_tree_inorder_postorder.py	Construct Tree Inorder Postorder
+114	python_world/p0114_flatten_binary_tree.py	Flatten Binary Tree
+264	python_world/p0264_ugly_number_ii.py	Ugly Number II
+243	python_world/p0243_shortest_word_distance.py	Shortest Word Distance
+252	python_world/p0252_meeting_rooms.py	Meeting Rooms
+275	python_world/p0275_h_index_ii.py	H Index II
+273	python_world/p0273_integer_to_english_words.py	Integer to English Words
+162	python_world/p0162_find_peak_element.py	Find Peak Element
+271	python_world/p0271_encode_and_decode_strings.py	Encode and Decode Strings
+276	python_world/p0276_paint_fence.py	Paint Fence
+128	python_world/p0128_longest_consecutive_sequence.py	Longest Consecutive Sequence
+241	python_world/p0241_different_ways_to_add_parentheses.py	Different Ways to Add Parentheses
+102	python_world/p0102_binary_tree_level_order_traversal.py	Binary Tree Level Order Traversal
+142	python_world/p0142_linked_list_cycle_ii.py	Linked List Cycle II
+270	python_world/p0270_closest_binary_search_tree_value.py	Closest Binary Search Tree Value
+131	python_world/p0131_palindrome_partitioning.py	Palindrome Partitioning
+155	python_world/p0155_min_stack.py	Min Stack
+137	python_world/p0137_single_number_ii.py	Single Number II
+107	python_world/p0107_binary_tree_level_order_traversal_ii.py	Binary Tree Level Order Traversal II
+163	python_world/p0163_missing_ranges.py	Missing Ranges
+169	python_world/p0169_majority_element.py	Majority Element
+269	python_world/p0269_alien_dictionary.py	Alien Dictionary
+256	python_world/p0256_paint_house.py	Paint House
+135	python_world/p0135_candy.py	Candy
+186	python_world/p0186_reverse_words_in_a_string_ii.py	Reverse Words in a String II
+180	python_world/p0180_consecutive_numbers.py	Consecutive Numbers
+176	python_world/p0176_second_highest_salary.py	Second Highest Salary
+144	python_world/p0144_binary_tree_preorder_traversal.py	Binary Tree Preorder Traversal
+139	python_world/p0139_word_break.py	Word Break
+152	python_world/p0152_maximum_product_subarray.py	Maximum Product Subarray
+196	python_world/p0196_delete_duplicate_emails.py	Delete Duplicate Emails
+126	python_world/p0126_word_ladder_ii.py	Word Ladder II
+182	python_world/p0182_duplicate_emails.py	Duplicate Emails
+130	python_world/p0130_surrounded_regions.py	Surrounded Regions
+249	python_world/p0249_group_shifted_strings.py	Group Shifted Strings
+179	python_world/p0179_largest_number.py	Largest Number
+132	python_world/p0132_palindrome_partitioning_ii.py	Palindrome Partitioning II
+156	python_world/p0156_binary_tree_upside_down.py	Binary Tree Upside Down
+146	python_world/p0146_lru_cache.py	LRU Cache
+195	python_world/p0195_tenth_line.py	Tenth Line
+250	python_world/p0250_count_univalue_subtrees.py	Count Univalue Subtrees
+236	python_world/p0236_lowest_common_ancestor_of_a_binary_tree.py	Lowest Common Ancestor of a Binary Tree
+232	python_world/p0232_implement_queue_using_stacks.py	Implement Queue using Stacks
+261	python_world/p0261_graph_valid_tree.py	Graph Valid Tree
+192	python_world/p0192_word_frequency.py	Word Frequency
+280	python_world/p0280_wiggle_sort.py	Wiggle Sort
+154	python_world/p0154_find_minimum_in_rotated_sorted_array_ii.py	Find Minimum in Rotated Sorted Array II
+112	python_world/p0112_path_sum.py	Path Sum
+127	python_world/p0127_word_ladder.py	Word Ladder
+147	python_world/p0147_insertion_sort_list.py	Insertion Sort List
+136	python_world/p0136_single_number.py	Single Number
+150	python_world/p0150_evaluate_reverse_polish_notation.py	Evaluate Reverse Polish Notation
+166	python_world/p0166_fraction_to_recurring_decimal.py	Fraction to Recurring Decimal
+277	python_world/p0277_find_the_celebrity.py	Find the Celebrity
+159	python_world/p0159_longest_substring_two_distinct.py	Longest Substring Two Distinct
+143	python_world/p0143_reorder_list.py	Reorder List
+148	python_world/p0148_sort_list.py	Sort List
+151	python_world/p0151_reverse_words_in_a_string.py	Reverse Words in a String
+184	python_world/p0184_department_highest_salary.py	Department Highest Salary
+259	python_world/p0259_3sum_smaller.py	3Sum Smaller
+109	python_world/p0109_sorted_list_to_bst.py	Sorted List to BST
+263	python_world/p0263_ugly_number.py	Ugly Number
