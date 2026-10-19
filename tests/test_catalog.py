@@ -16,15 +16,15 @@ class CatalogTest(unittest.TestCase):
         with MANIFEST.open(encoding="utf-8", newline="") as stream:
             return list(csv.DictReader(stream, delimiter="\t"))
 
-    def test_manifest_has_137_unique_solutions(self) -> None:
+    def test_manifest_has_204_unique_solutions(self) -> None:
         rows = self.manifest_rows()
-        self.assertEqual(137, len(rows))
+        self.assertEqual(204, len(rows))
         self.assertEqual(
             ["problem_number", "relative_path", "title"],
             list(rows[0]),
         )
-        self.assertEqual(137, len({row["problem_number"] for row in rows}))
-        self.assertEqual(137, len({row["relative_path"] for row in rows}))
+        self.assertEqual(204, len({row["problem_number"] for row in rows}))
+        self.assertEqual(204, len({row["relative_path"] for row in rows}))
 
     def test_every_manifest_module_exists_and_imports(self) -> None:
         for row in self.manifest_rows():
@@ -37,4 +37,3 @@ class CatalogTest(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-
